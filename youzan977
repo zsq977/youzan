@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+   <div class="phptpl-header" yz_ctn_module="nav">
+   <div class="header-container">
+   <a class="logo" href="//www.youzan.com">
+   </a>
+   <div class="nav-link-container">
+   <p class="nav-link">香港上市代码</p>
+   <p class="nav-link">08083.HK</p>
+   </div>
+   <ul id="nav_list_common_" class="nav-list">
+   <li class="product-dropdown caret-margin">
+   <i class="caret">
+   </i>
+   </a>
+   <div class="dropdown-menu-wrapper">
+   <div class="dropdown-menu">
+   <div class="product product-main border-right">
+   <p class="menu-title">产品</p>
+   <div class="link-list-left">
+   <div class="product-block" id="/intro/wsc">
+   <span class="icon-wsc">
+   </span>
+   <h4>有赞微商城</h4>
+   <p>网上开店工具，帮你提升销量</p>
+   </a>
+   </div>
+   <div class="product-block" id="/intro/ls">
+   <span class="icon-ls"></span>
+   <h4>有赞零售</h4>
+   <p>打通门店网店，业绩翻倍增长</p>
+   </a>
+   </div>
+   <div class="product-block" id="/intro/chain-store">
+   <span class="icon-chain-store">
+   </span><h4>有赞连锁</h4>
+   <p>多门店统一经营解决方案</p>
+   </div>
+   <div class="product-block" id="/intro/beauty">
+   <span class="icon-meiye">
+   </span>
+   <h4>有赞美业</h4>
+   <p>轻松拉新客，快乐管店务</p>
+   </div>
+   <div class="product-block">
+   <span></span>
+   <h4>更多产品...</h4>
+   <p>服务一切交易</p>
+   </div>
+   </div>
+   </div>
+   <div class="product product-solutions">
+   <div class="link-list-left">
+   <p class="menu-title">解决方案</p>
+   <div class="solution-container">
+   <div class="product-block" id="/intro/weapp">
+   <h4>小程序</h4>
+   <p>一键接入，抢占市场红利</p>
+   </div>
+   <div class="product-block" id="/intro/cy">
+   <h4>餐饮</h4>
+   <p>外卖、堂食，统一高效管理</p>
+   </div>
+   <div class="product-block" id="/intro/huiyi">
+   <h4>会议</h4>
+   <p>一站式全流程会务解决方案</p>
+   </div>
+   <div class="product-block">
+   <h4>分销</h4>
+   <p>搭建分销网络，万人帮你卖货</p>
+   </div>
+   <div class="product-block" id="/intro/piaowu">
+   <h4>票务</h4>
+   <p>在线售票，快速核销，提升营收能力</p>
+   </div>
+   <div class="product-block" id="/intro/custom">
+   <h4>定制服务</h4>
+   <p>个性化需求，独立定制</p>
+   </div>
+   <div class="product-block" id="/intro/ga">
+   <h4>广告投放</h4>
+   <p>连接优质流量，获取目标客户</p>
+   </div>
+   <div class="product-block" id="/intro/media">
+   <h4>媒体</h4>
+   <p>快速拥有网店，微信粉丝变现</p>
+   </div>
+   <div class="product-block" id="/intro/products">
+   <h4>更多解决方案…</h4>
+   <p>帮助更多垂直行业的商家成功</p>
+   </div>
+   <div class="product-block">
+   <h4>App开店</h4>
+   <p>让每个App都拥有强大的商城能力</p>
+   </div>
+   <div class="product-block" id="/intro/solution/jiudian">
+   <h4>酒店</h4>
+   <p>满足订房、餐饮、娱乐等多场景</p>
+   </div>
+   <div class="product-block block-empty" id="/xx">
+   <a>
+   <h4>
+   </h4>
+   <p>
+   </p>
+   </a>
+   </div>
+   <div class="product-block" id="/intro/ump/dashboard">
+   <h4>营销应用</h4>
+   <p>百种营销工具，玩转社交电商</p>
+   </div>
+   <div class="product-block" id="/intro/edu">
+   <h4>教育</h4>
+   <p>打造闭环式教育体系</p>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>
+   </li>
+   <li class="product-dropdown caret-margin">
+   消费者<i class="caret"></i>
+   <div class="dropdown-menu-wrapper">
+   <div class="dropdown-menu dropdown-menu__customer">
+   <div class="item-container">
+   <div class="item-product">
+   <span class="icon-wxd"></span>
+   <h3>有赞微小店</h3>
+   <p>手机开店神器，没货也能开店</p>
+   </div>
+   <div class="item-product">
+   <span class="icon-choice"></span>
+   <h3>有赞精选</h3>
+   <p>精挑细选，朋友圈的口碑好货</p>
+   </div>
+   <div class="item-product">
+   <span class="icon-guarantee"></span>
+   <h3>有赞担保</h3>
+   <p>全程担保，放心购买</p>
+   </div>
+   </div>
+   </div>
+   </div>
+   </li>
+   <li>
+   </li>
+   <li class="product-dropdown caret-margin">
+  有赞云<i class="caret">
+   </i>
+   <div class="dropdown-menu-wrapper">
+   <div class="dropdown-menu">
+   <div class="item-product">
+   <h3>商家自主开发</h3>
+   <p>量身定制你的有赞微商城</p>
+   </div>
+   <div class="item-product">
+   <h3>商家应用市场</h3>
+   <p>商家经营必备的一站式订购平台</p>
+   </div>
+   <div class="item-product">
+   <h3>门店打通</h3>
+   <p>牵手计划，线上线下全渠道经营</p>
+   </div>
+   <div class="item-product">
+   <h3>App开店</h3>
+   <p>让每一个App都有一个强大的微商城</p>
+   </div>
+   <div class="item-product">
+   <h3>小程序 SDK</h3>
+   <p>自建小程序迅速集成电商能力</p>
+   </div>
+   </div>
+   </div>
+   </li>
+   <li class="product-dropdown caret-margin">
+   更多服务<i class="caret">
+   </i>
+   <div class="dropdown-menu-wrapper">
+   <div class="dropdown-menu">
+   <div class="item-product" id="/intro/shangmeng">
+   <h3>有赞商盟</h3>
+   <p>地方商圈资源合作分享</p>
+   </div>
+   <div class="item-product">
+   <h3>有赞学院</h3>
+   <p>视频教学让学习更简单</p>
+   </div>
+   <div class="item-product">
+   <h3>商家社区</h3>
+   <p>有赞商家在线交流社区</p>
+   </div>
+   <div class="item-product">
+   <h3>帮助中心</h3>
+   <p>解决商家店铺运营常见问题</p>
+   </div>
+   <div class="item-product" id="/intro/fuwu">
+   <h3>服务支持</h3>
+   <p>以服务赋能商家</p>
+   </div>
+   <div class="item-product" id="/intro/gongyi">
+   <h3>有赞公益</h3>
+   <p>持续关注并参与环境保护</p>
+</div>
+</div>
+<div class="bottom-contact-container">
+  <div class="bottom-contact">开店咨询：0571 - 8685 7988 &nbsp; <i class="dividing-line">|</i>周一到周日 9:00 ~ 18:00
+  </div>
+</div>
+</div>
+</li>
+<li class="last login_common_">
+  <a target="_blank" class="btn-login" href="//account.youzan.com/login">登录</a>
+</li>
+<li class="last register_common_">
+  <a target="_blank" id="yz_register_" class="btn-register_" href="//account.youzan.com/register">注册</a>
+</li>
+</ul>
+</div>
+</div>
+  </style>
+</body>
+</html>
